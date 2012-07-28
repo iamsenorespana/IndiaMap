@@ -1,0 +1,8 @@
+tmp
+build.log
+*.log
+build*
+build/*
+.DS_Store/*
+.project
+.settings

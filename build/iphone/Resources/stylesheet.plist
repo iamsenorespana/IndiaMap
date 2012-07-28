@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>classes</key>
+		<dict>
+<key>app</key>
+<dict>
+</dict>
+</dict>
+
+		<key>classes_density</key>
+		<dict>
+<key>app</key>
+<dict>
+</dict>
+</dict>
+
+		<key>ids</key>
+		<dict>
+<key>app</key>
+<dict>
+<key>bottomBar</key>
+<dict>
+<key>height</key>
+<string>60</string>
+<key>backgroundImage</key>
+<string>images/iphone-bottombar.png</string>
+<key>bottom</key>
+<string>0</string>
+</dict>
+<key>tabGroupColor</key>
+<dict>
+<key>barColor</key>
+<string>#000</string>
+</dict>
+</dict>
+</dict>
+
+		<key>ids_density</key>
+		<dict>
+<key>app</key>
+<dict>
+</dict>
+</dict>
+
+		<key>tags</key>
+		<dict>
+<key>app</key>
+<dict>
+</dict>
+</dict>
+
+		<key>tags_density</key>
+		<dict>
+<key>app</key>
+<dict>
+</dict>
+</dict>
+
+	</dict>
+</plist>
